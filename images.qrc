@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Available-Tile_1.png</file>
+        <file>Available-Tile_2.png</file>
+        <file>Black-King-Piece.png</file>
+        <file>Black-Normal-Piece.png</file>
+        <file>Black-Tile.png</file>
+        <file>Black-Tile-Hover.png</file>
+        <file>Blank-Piece.png</file>
+        <file>Checkers-Board.png</file>
+        <file>Grey-Tile.png</file>
+        <file>White-King-Piece.png</file>
+        <file>White-Normal-Piece.png</file>
+        <file>White-Tile.png</file>
+        <file>Title.png</file>
+        <file>startBackground.png</file>
+        <file>pauseBackground.png</file>
+        <file>pause.png</file>
+        <file>Blue-Tile.png</file>
+        <file>CheckersTitle2.png</file>
+        <file>Orange-Tile.png</file>
+        <file>TempBlack.png</file>
+        <file>TempBlackKing.png</file>
+        <file>TempWhite.png</file>
+        <file>TempWhiteKing.png</file>
+        <file>BoardBG1.png</file>
+        <file>BoardBG2.png</file>
+        <file>Cursor.png</file>
+        <file>startwindow2.png</file>
+    </qresource>
+</RCC>
